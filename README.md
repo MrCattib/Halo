@@ -15,6 +15,7 @@ Halo - Discord App | Terms of Service , Privacy Policy
 **AutoHalo:**
 * AutoHalo is manageable only if you got Administrator permission.
 * AutoHalo can be enabled in one text channel per server.
+
 **Halo:**
 * Halo is runnable for everyone.
 * Halo doen't have any configuration.
